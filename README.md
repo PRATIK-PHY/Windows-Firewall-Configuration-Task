@@ -1,5 +1,4 @@
 Windows Firewall Configuration Task
-
 🛡️ Objective
 The objective of this task is to configure and test basic firewall rules on a Windows machine to understand how to allow or block network traffic.
 
