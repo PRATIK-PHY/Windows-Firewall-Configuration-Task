@@ -1,4 +1,5 @@
 Windows Firewall Configuration Task
+
 🛡️ Objective
 The objective of this task is to configure and test basic firewall rules on a Windows machine to understand how to allow or block network traffic.
 
@@ -6,6 +7,7 @@ The objective of this task is to configure and test basic firewall rules on a Wi
 Windows Defender Firewall with Advanced Security: The built-in firewall management tool in Windows.
 
 PuTTY (or similar tool): Used to test network connections.
+
 
 ⚙️ Steps for Configuration and Testing
 The following steps were performed to complete the task:
